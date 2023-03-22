@@ -1,6 +1,8 @@
 {
-  "scripts": {
-    "dev": "next dev"
+   "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   },
   "dependencies": {
     "clsx": "^1.2.1",
